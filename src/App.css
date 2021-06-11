@@ -60,27 +60,6 @@ p {
   flex-direction: column;
 }
 
-.signOut {
-  padding: 20px;
-  font-size: 20px;
-  border-radius: 0;
-  font-weight: 600;
-}
-.input {
-  width: 78%;
-  font-size: 20px;
-  font-weight: 550;
-  margin-left: 5px;
-  margin-bottom: -3px;
-}
-
-.button {
-  width: 18%;
-  font-size: 20px;
-  font-weight:550;
-  max-width: 200px;
-  margin: 4px 0% -8px 100%;
-}
 
 @media (max-width: 775px) {
   p {
@@ -111,14 +90,6 @@ p {
   img {
     height: 30px;
     margin-top: -7px;
-  }
-  .signOut {
-    font-size: 15px;
-    padding: 15px;
-  }
-  .input {
-    font-size: 15px;
-    width: 60%;
   }
 }
 
